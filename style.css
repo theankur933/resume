@@ -52,7 +52,7 @@ ul {
 
 @media screen and (max-width: 500px) {
     .outer {
-        width: 10cm;
+        width: 100%;
     }
 
     .outer h1 {
